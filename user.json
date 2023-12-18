@@ -1,0 +1,23 @@
+[
+  {
+      "id": "1",
+      "username": "tranhung1998",
+      "password": "NgocHung1998",
+      "phone": "0348405007",
+      "email": "tranhung1998@gmail.com"
+  },
+  {
+    "id": "2",
+    "username": "tranhung1999",
+    "password": "Ngoc_Hung1998",
+    "phone": "0347408547",
+    "email": "tranhung1999@gmail.com"
+},
+{
+  "id": "1",
+  "username": "tranhung1997",
+  "password": "NgocHung1997",
+  "phone": "0333947878",
+  "email": "tranhung1997@gmail.com"
+}
+]
