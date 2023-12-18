@@ -214,5 +214,14 @@
       "saled": "1,2k",
       "origin": "Hà Nội",
       "saleOff": "13"
-  }
+  },
+  {
+    "id": "25",
+    "name": "Ổ đĩa flash USB2.0 2TB Hp kim loại chống thấm nước 11",
+    "oldPrice": "170.000",
+    "newPrice": "195.000",
+    "saled": "1,2k",
+    "origin": "Hà Nội",
+    "saleOff": "13"
+}
 ]
