@@ -6,7 +6,9 @@
         "newPrice": "200.000",
         "saled": "3,8k",
         "origin": "Hà Nội",
-        "saleOff": "40"
+        "saleOff": "40",
+        "quantity":1,
+        "date":"20-10-2020"
     },
     {
         "id": "2",
@@ -15,7 +17,9 @@
         "newPrice": "400.000",
         "saled": "2,7k",
         "origin": "Huế",
-        "saleOff": "20"
+        "saleOff": "20",
+        "quantity":1,
+        "date":"20-11-2020"
     },
     {
         "id": "3",
@@ -24,7 +28,9 @@
         "newPrice": "180.000",
         "saled": "1,7k",
         "origin": "Hà Nội",
-        "saleOff": "27"
+        "saleOff": "27",
+        "quantity":1,
+        "date":"20-10-2021"
     },
     {
         "id": "4",
@@ -33,7 +39,9 @@
         "newPrice": "400.000",
         "saled": "2,7k",
         "origin": "Hà Nội",
-        "saleOff": "20"
+        "saleOff": "20",
+        "quantity":1,
+        "date":"20-10-2023"
     },
     {
         "id": "5",
@@ -42,7 +50,9 @@
         "newPrice": "210.000",
         "saled": "1,1k",
         "origin": "Hà Nội",
-        "saleOff": "30"
+        "saleOff": "30",
+        "quantity":1,
+        "date":"20-09-2020"
     },
     {
         "id": "6",
@@ -51,7 +61,9 @@
         "newPrice": "220.000",
         "saled": "2,3k",
         "origin": "Hồ Chí Minh",
-        "saleOff": "25"
+        "saleOff": "25",
+        "quantity":1,
+        "date":"20-01-2022"
     },
     {
         "id": "7",
@@ -60,7 +72,9 @@
         "newPrice": "250.000",
         "saled": "3,2k",
         "origin": "Hồ Chí Minh",
-        "saleOff": "30"
+        "saleOff": "30",
+        "quantity":1,
+        "date":"20-02-2022"
     },
     {
         "id": "8",
@@ -69,7 +83,9 @@
         "newPrice": "300.000",
         "saled": "1,2k",
         "origin": "Hà Nội",
-        "saleOff": "25"
+        "saleOff": "25",
+        "quantity":1,
+        "date":"20-05-2021"
     },
     {
         "id": "9",
@@ -78,7 +94,9 @@
         "newPrice": "170.000",
         "saled": "3,1k",
         "origin": "Hồ Chí Minh",
-        "saleOff": "50"
+        "saleOff": "50",
+        "quantity":1,
+        "date":"20-06-2020"
     },
     {
         "id": "10",
@@ -87,7 +105,9 @@
         "newPrice": "230.000",
         "saled": "1,1k",
         "origin": "Đà Nẵng",
-        "saleOff": "15"
+        "saleOff": "15",
+        "quantity":1,
+        "date":"10-10-2020"
     },
     {
         "id": "11",
@@ -96,7 +116,9 @@
         "newPrice": "130.000",
         "saled": "5,2k",
         "origin": "Hà Nội",
-        "saleOff": "55"
+        "saleOff": "55",
+        "quantity":1,
+        "date":"11-10-2020"
     },
     {
         "id": "12",
@@ -105,7 +127,9 @@
         "newPrice": "170.000",
         "saled": "3,1k",
         "origin": "Hồ Chí Minh",
-        "saleOff": "50"
+        "saleOff": "50",
+        "quantity":1,
+        "date":"30-10-2020"
     },
     {
         "id": "13",
@@ -114,7 +138,9 @@
         "newPrice": "210.000",
         "saled": "3,8k",
         "origin": "Hà Nội",
-        "saleOff": "42"
+        "saleOff": "42",
+        "quantity":1,
+        "date":"22-10-2020"
     },
     {
         "id": "14",
@@ -123,7 +149,9 @@
         "newPrice": "330.000",
         "saled": "1,9k",
         "origin": "Hà Nội",
-        "saleOff": "15"
+        "saleOff": "15",
+        "quantity":1,
+        "date":"19-10-2020"
     },
     {
         "id": "15",
@@ -132,7 +160,9 @@
         "newPrice": "110.000",
         "saled": "7,1k",
         "origin": "Đà Nẵng",
-        "saleOff": "30"
+        "saleOff": "30",
+        "quantity":1,
+        "date":"20-10-2019"
     },
     {
         "id": "16",
@@ -141,7 +171,9 @@
         "newPrice": "170.000",
         "saled": "2,7k",
         "origin": "Hà Nội",
-        "saleOff": "20"
+        "saleOff": "20",
+        "quantity":1,
+        "date":"05-10-2020"
     },
     {
         "id": "17",
@@ -150,7 +182,9 @@
         "newPrice": "300.000",
         "saled": "1,2k",
         "origin": "Hồ Chí Minh",
-        "saleOff": "21"
+        "saleOff": "21",
+        "quantity":1,
+        "date":"03-10-2020"
     },
     {
         "id": "18",
@@ -159,7 +193,9 @@
         "newPrice": "70.000",
         "saled": "5,6k",
         "origin": "Hà Nội",
-        "saleOff": "10"
+        "saleOff": "10",
+        "quantity":1,
+        "date":"20-08-2020"
     },
     {
         "id": "19",
@@ -168,7 +204,9 @@
         "newPrice": "195.000",
         "saled": "1,2k",
         "origin": "Hà Nội",
-        "saleOff": "13"
+        "saleOff": "13",
+        "quantity":1,
+        "date":"08-06-2020"
     },
     {
         "id": "20",
@@ -177,7 +215,9 @@
         "newPrice": "250.000",
         "saled": "1,1k",
         "origin": "Hà Nội",
-        "saleOff": "15"
+        "saleOff": "15",
+        "quantity":1,
+        "date":"06-06-2023"
     },
     {
         "id": "21",
@@ -186,7 +226,9 @@
         "newPrice": "420.000",
         "saled": "1,9k",
         "origin": "Hà Nội",
-        "saleOff": "20"
+        "saleOff": "20",
+        "quantity":1,
+        "date":"20-10-2017"
     },
     {
         "id": "22",
@@ -195,7 +237,9 @@
         "newPrice": "185.000",
         "saled": "2,3k",
         "origin": "Hà Nội",
-        "saleOff": "23"
+        "saleOff": "23",
+        "quantity":1,
+        "date":"15-10-2023"
     },
     {
         "id": "23",
@@ -204,7 +248,9 @@
         "newPrice": "200.000",
         "saled": "3,8k",
         "origin": "Đà Nẵng",
-        "saleOff": "27"
+        "saleOff": "27",
+        "quantity":1,
+        "date":"07-10-2017"
     },
     {
         "id": "24",
@@ -213,7 +259,9 @@
         "newPrice": "400.000",
         "saled": "1,9k",
         "origin": "Hà Nội",
-        "saleOff": "20"
+        "saleOff": "20",
+        "quantity":1,
+        "date":"26-10-2020"
     },
     {
         "id": "25",
@@ -222,6 +270,8 @@
         "newPrice": "195.000",
         "saled": "1,2k",
         "origin": "Hà Nội",
-        "saleOff": "13"
+        "saleOff": "13",
+        "quantity":1,
+        "date":"20-10-2020"
     }
 ]
